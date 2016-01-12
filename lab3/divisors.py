@@ -1,0 +1,9 @@
+def divisors():
+	print("enter a number")
+	n = int(input())
+	x=1
+	while (x<n):
+		print(x)
+		x = x+1
+
+divisors()
