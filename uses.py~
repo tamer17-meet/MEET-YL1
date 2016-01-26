@@ -1,0 +1,16 @@
+from Animalfile import *
+
+dog = Animal("woof","Jeff",17)
+
+print(dog.sound)
+
+dog.dreaming("World")
+cat.eat("chips")
+lion.play("ball")
+bee.sting("person")
+human.hit("wall")
+tiger.kill("lions")
+elephant.step("thing")
+butterfly.move("wings")
+ant.walk("floor")
+eagle.see("food")

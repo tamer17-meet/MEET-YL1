@@ -6,3 +6,5 @@ def divisors():
 		print(x)
 		x = x+1
 
+
+def
